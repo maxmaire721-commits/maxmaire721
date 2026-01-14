@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1768219639952,
+      "tag": "0000_mysterious_payback",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1768219765051,
+      "tag": "0001_spotty_dreaming_celestial",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1768309941469,
+      "tag": "0002_dapper_zombie",
+      "breakpoints": true
+    }
+  ]
+}
